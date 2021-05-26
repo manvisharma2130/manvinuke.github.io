@@ -1,0 +1,259 @@
+@media screen and (max-width:400px) {
+    #landing-section {
+        height: 70vh;
+    }
+    #button {
+        margin-top: 40px;
+    }
+    #nav-items {
+        display: none;
+    }
+    #bars {
+        visibility: visible;
+        width: 30px;
+        color: black;
+        margin-top: 50px;
+    }
+    #first-section {
+        margin-top: -80px;
+    }
+    #info-wrapper {
+        display: none;
+    }
+    #main-head {
+        width: 80%;
+        height: 15vh;
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .team-head {
+        display: block;
+        width: 100%;
+        margin-top: 4px;
+        margin-bottom: 15%;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .team-head h1 {
+        display: none;
+    }
+    .team-head h2 {
+        font-size: 26px;
+        left: 0px;
+        top: 0px;
+        line-height: 30px;
+        margin-bottom: 9px;
+    }
+    .tools-wrapper {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .tools-wrapper p {
+        font-size: 16px;
+    }
+    .tools-wrapper a {
+        font-size: 12px;
+    }
+    #tools-content {
+        display: block;
+        flex-direction: column;
+        margin-top: 0px;
+    }
+    #about-section {
+        display: block;
+        margin-top: 900px;
+    }
+    #about-head {
+        margin-top: 0px;
+    }
+    #left-section {
+        width: 100%;
+        margin-left: 0px;
+    }
+    #right-section {
+        width: 100%;
+        height: auto;
+        margin-left: 30px;
+        margin-top: -30px;
+    }
+    #right-section p {
+        font-size: 15px;
+        line-height: 30px;
+        margin-left: -40px;
+        margin-top: -30px;
+    }
+    #second-para {
+        margin-top: 80px;
+    }
+    #meet-team {
+        width: 50%;
+        margin-left: -40px;
+    }
+    #about-head h1 {
+        display: none;
+    }
+    #about-head h2 {
+        font-size: 22px;
+        left: -60px;
+        top: -180px;
+    }
+    #review-section {
+        display: block;
+        margin-top: 400px;
+        margin-left: -30px;
+    }
+    .review-wrapper {
+        width: auto;
+    }
+    .review-wrapper h1 {
+        font-size: 44px;
+        margin-bottom: 0px;
+    }
+    .review-wrapper p {
+        font-size: 15px;
+    }
+    #second-section {
+        margin-top: 1450px;
+        margin-left: 0px;
+    }
+    #building-section {
+        display: block;
+    }
+    .building-wrapper {
+        width: 100%;
+        margin-left: 0px;
+        height: 50vh;
+        margin-top: 30px;
+    }
+    .building-circle {
+        padding: 8px;
+        margin-left: 70px;
+        margin-top: 90px;
+    }
+    #third-section {
+        margin-top: 1150px;
+        width: 100%;
+        display: block;
+        height: 50vh;
+    }
+    #heading-wrapper {
+        width: 100%;
+        height: 40vh;
+        margin-left: -80px;
+        margin-top: 40px;
+    }
+    #heading-wrapper h1 {
+        font-size: 20px;
+        letter-spacing: 1px;
+        margin-left: 40px;
+        margin-top: 20px;
+        line-height: 35px;
+    }
+    #heading-wrapper p {
+        margin-left: 40px;
+        line-height: 35px;
+        font-weight: 400;
+    }
+    #heading-anchor {
+        margin-left: 40px;
+    }
+    #fourth-section {
+        margin-top: -210px;
+        height: 430vh;
+    }
+    #professionals {
+        display: block;
+    }
+    .team-wrapper {
+        margin-left: 20px;
+        width: 90%;
+        margin-top: 100px;
+        height: 80vh;
+    }
+    .team-name {
+        height: 20vh;
+        margin-top: 30px;
+    }
+    .team-name h1 {
+        margin-top: -40px;
+        line-height: 50px;
+    }
+    .team-name p {
+        line-height: 0px;
+    }
+    .vertical {
+        width: 20%;
+    }
+    .vertical a {
+        margin-left: 10px;
+    }
+    #fifth-section {
+        margin-top: -80px;
+        height: 280vh;
+    }
+    #blog-wrapper {
+        display: block;
+        width: 100;
+    }
+    .read {
+        width: 25%;
+    }
+    .blog-name p {
+        left: 30px;
+        font-size: 14px;
+    }
+    .news-wrapper {
+        margin-top: 40px;
+    }
+    #trusted-logo {
+        margin-top: 1000px;
+        height: 120vh;
+        width: 95%;
+    }
+    #logo-heading {
+        display: block;
+        left: 0px;
+        top: 30px;
+    }
+    .logos-div {
+        display: block;
+        width: 25%;
+        height: auto;
+        left: 80px;
+        margin-top: 50px;
+    }
+    footer {
+        margin-top: 661px;
+        display: block;
+        height: 150vh;
+    }
+    #about-nuuk {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .line {
+        width: 50%;
+    }
+    #about-nuuk p {
+        font-size: 15px;
+    }
+    #Services {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+    #contact {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+    #bottom-nuke {
+        margin-left: 0px;
+        margin-top: -55px;
+        height: 10vh;
+    }
+    #bottom-nuke img {
+        height: 20px;
+    }
+}

@@ -1,0 +1,202 @@
+@media screen and (max-width:640px) {
+    #landing-section {
+        background-image: linear-gradient(76deg, rgba(193, 195, 204, 0.83) 35%, rgba(193, 195, 204, 0.28) 65%), url("slide-2.jpg");
+        background-size: contain;
+        height: 95vh;
+        width: 100%;
+        background-attachment: scroll, fixed;
+    }
+    #nav-items {
+        display: none;
+    }
+    #logo {
+        width: 80px;
+        height: 10px;
+    }
+    #info-wrapper {
+        left: 10px;
+        width: 680px;
+        height: 250px;
+        top: 551px;
+    }
+    .details {
+        margin-left: -10px;
+        width: 40%;
+    }
+    #first-section {
+        margin-top: 120px;
+        width: 100vw;
+    }
+    .team-head {
+        margin-top: 50px;
+    }
+    .team-head h1 {
+        font-size: 60px;
+        top: 150px;
+    }
+    .team-head h2 {
+        font-size: 26px;
+        left: 0px;
+        top: 0px;
+    }
+    #tools-content {
+        display: block;
+    }
+    .tools-wrapper {
+        width: 100%;
+    }
+    #about-section {
+        margin-top: 850px;
+        display: block;
+    }
+    #left-section {
+        width: 100%;
+        height: 75vh;
+    }
+    #right-section {
+        width: 100%;
+        margin-left: 0px;
+    }
+    #about-head h1 {
+        font-size: 60px;
+        top: 50px;
+        left: 0px;
+    }
+    #about-head h2 {
+        font-size: 26px;
+        margin-top: 100px;
+    }
+    #review-section {
+        margin-top: 400px;
+        display: block;
+    }
+    #second-section {
+        margin-top: 1700px;
+    }
+    .review-wrapper {
+        width: 100%;
+    }
+    #building-section {
+        display: block;
+        height: 300vh;
+    }
+    .building-wrapper {
+        width: 100%;
+        margin-left: 0px;
+        height: 100vh;
+        margin-top: 30px;
+    }
+    .over-background {
+        height: 100%;
+    }
+    .building-circle {
+        margin-left: 200px;
+        margin-top: 200px;
+    }
+    #third-section {
+        margin-top: 485vw;
+        width: 100%;
+    }
+    #heading-wrapper {
+        width: 100%;
+        margin-left: 0px;
+        height: 0ps;
+    }
+    #heading-wrapper h1 {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: -30px;
+        line-height: normal;
+        font-size: 25px;
+    }
+    #heading-wrapper p {
+        margin-left: 0px;
+        font-size: 17px;
+        letter-spacing: 1px;
+    }
+    #heading-anchor {
+        margin-left: 180px;
+    }
+    #fourth-section {
+        height: 400vh;
+    }
+    #professionals {
+        display: block;
+    }
+    .team-name {
+        height: 20vh;
+        margin-top: -5px;
+    }
+    #fifth-section {
+        margin-top: 0px;
+    }
+    .team-wrapper {
+        height: 50vh;
+        width: 80%;
+        margin-top: 50px;
+        margin-left: 70px;
+    }
+    .team-name h1 {
+        margin-top: 30px;
+    }
+    #blog-wrapper {
+        display: block;
+    }
+    .read {
+        width: 15%;
+    }
+    .news-wrapper {
+        margin-top: 30px;
+    }
+    #trusted-logo {
+        margin-top: 1000px;
+        height: 50vh;
+        width: 100%;
+        margin-left: 10px;
+    }
+    #logo-heading {
+        display: block;
+        text-align: center;
+        top: 30px;
+    }
+    .logos-div {
+        left: 0px;
+        right: 100px;
+        height: 20vh;
+        top: 40px;
+    }
+    footer {
+        margin-top: 1042px;
+        height: 160vh;
+        display: block;
+    }
+    #about-nuuk {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .line {
+        width: 70%;
+        height: 1px;
+        left: 120px;
+    }
+    #Services {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+    #contact {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+    #bottom-nuke {
+        margin-left: 0px;
+        margin-top: 23px;
+        height: 10vh;
+        width: 30%;
+    }
+    #bottom-nuke img {
+        height: 20px;
+        width: 70%;
+    }
+}
