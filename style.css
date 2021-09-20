@@ -1035,7 +1035,7 @@
             margin-top: 30px;
             height: 50px;
         }
-        /*FOR LAPTOP SCREEN*/
+        
         
         @media screen and (max-width:640px) {
             #landing-section {
@@ -1239,7 +1239,7 @@
                 width: 70%;
             }
         }
-        /*FOR  MOBILE*/
+        
         
         @media screen and (max-width:400px) {
             #landing-section {
